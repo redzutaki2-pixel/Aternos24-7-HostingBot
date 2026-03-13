@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
+    "ip": "SinhTon-rA75.aternos.me:55595",
     "port": 55595,
-    "version": "",
-    "try-creative": false
+    "version": "1.21.1",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
